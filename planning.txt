@@ -1,0 +1,12 @@
+- Aprender Postgres
+
+Libro: https://www.amazon.co.uk/Learn-PostgreSQL-high-performance-database-solutions-ebook/dp/B0881XNLGZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1646134364&sr=1-1
+
+
+- Refresh MySQL
+
+
+
+- Seguir curso acloudguru database speciality
+
+https://acloudguru.com/course/aws-certified-database-specialty-dbs-c01?utm_campaign=11244863417&utm_source=google&utm_medium=cpc&utm_content=582312260339&utm_term=_&adgroupid=115625160932&gclid=EAIaIQobChMIlMXH6-Gk9gIVDO7tCh0yAgNSEAAYASAAEgLOnPD_BwE
